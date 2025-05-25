@@ -5,4 +5,6 @@ Online URL expansion service to retrieve the actual destination of a shortened U
 
 Live Demo: http://www.srccodes.com/tools/misc/url-expander
 
-<!-- GitAds-Verify: 7E5Q8UQNADC29R44IAV624C5W8JCR2L6 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/tool-url-expander@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/tool-url-expander@github)
+
